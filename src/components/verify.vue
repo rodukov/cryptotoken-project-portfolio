@@ -11,11 +11,11 @@
         </div>
         <div class="item" id="second">
             <div><p class="default itemmain">NiceToken Transactions</p></div>
-            <div><p class="default itemnumb">1,961,355</p></div>
+            <div><p class="default itemnumb">576,238</p></div>
         </div>
         <div class="item" id="third">
             <div><p class="default itemmain">NiceToken Transactions</p></div>
-            <div><p class="default itemnumb">1,961,355</p></div>
+            <div><p class="default itemnumb">452</p></div>
         </div>
     </div>
 
