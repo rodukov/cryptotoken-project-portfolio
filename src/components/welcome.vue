@@ -3,7 +3,7 @@
     <div class="data">
         <div>
             <p class="default main">THE CRYPTO <br>TOKEN FOR <br><span class="gaming">GAMING</span></p>
-            <p class="default description">Earn this token via playing our game.<br>Absoulety for free and fast.</p>
+            <p class="default description">Earn this token via playing games.<br>Absoulety for free and fast.</p>
         </div>
         <div class="canvas">
 
