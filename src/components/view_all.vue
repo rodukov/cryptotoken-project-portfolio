@@ -57,7 +57,9 @@ export default { name: 'view_all' }
     text-align: center;
     color: #FFFFFF;
     text-decoration: none;
-
-
+    transition: .2s;
+}
+.link:hover {
+    background: #35aed3;
 }
 </style>

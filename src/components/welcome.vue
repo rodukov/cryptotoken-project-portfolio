@@ -45,9 +45,8 @@ export default { name: 'welcome' }
     -webkit-text-fill-color: transparent;
     background-clip: text;
     text-fill-color: transparent;
-
-
 }
+
 .description {
 
     font-family: 'Inter';
